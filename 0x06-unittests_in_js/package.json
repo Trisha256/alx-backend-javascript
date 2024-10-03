@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "chai-http": "^4.3.0",
+    "debug": "^3.2.7",
     "express": "^4.17.1",
     "flat": "^5.0.1",
     "yargs-unparser": "^2.0.0"
